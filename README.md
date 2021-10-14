@@ -64,6 +64,6 @@ https://user-images.githubusercontent.com/51683201/137363311-bfc656c2-b1e8-495c-
 
 Voici certains extraits de scriptes : 
 
-* [GroupeManager.cs](/ScriptsExample/GroupeManager.cs "GroupeManager.cs")
-* [PacketsForger.cs](/ScriptsExample/PacketsForger.cs "PacketsForger.cs")
-* [CharacterController.cs](/ScriptsExample/CharacterController.cs "CharacterController.cs")
+* [GroupeManager.cs](https://github.com/Extons/GameServer_Network_API/blob/018845ca7c383d7eefb6f4611e7b40741635eb0e/ScriptsExample/CharacterMovementScript.cs "GroupeManager.cs")
+* [PacketsForger.cs](https://github.com/Extons/GameServer_Network_API/blob/018845ca7c383d7eefb6f4611e7b40741635eb0e/ScriptsExample/PacketsForger.cs "PacketsForger.cs")
+* [CharacterController.cs](https://github.com/Extons/GameServer_Network_API/blob/018845ca7c383d7eefb6f4611e7b40741635eb0e/ScriptsExample/CharacterController.cs "CharacterController.cs")
