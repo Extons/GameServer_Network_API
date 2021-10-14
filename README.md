@@ -64,6 +64,6 @@ https://user-images.githubusercontent.com/51683201/137363311-bfc656c2-b1e8-495c-
 
 Voici certains extraits de scriptes : 
 
-* [GroupeManager.cs](ScriptsExample/GroupeManager.cs "GroupeManager.cs")
-* [PacketsForger.cs](ScriptsExample/PacketsForger.cs "PacketsForger.cs")
-* [CharacterController.cs](ScriptsExample/CharacterController.cs "CharacterController.cs")
+* [GroupeManager.cs](/ScriptsExample/GroupeManager.cs "GroupeManager.cs")
+* [PacketsForger.cs](/ScriptsExample/PacketsForger.cs "PacketsForger.cs")
+* [CharacterController.cs](/ScriptsExample/CharacterController.cs "CharacterController.cs")
