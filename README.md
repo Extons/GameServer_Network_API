@@ -1,11 +1,11 @@
-# Mkawdin Project
-Le projet "Mkawdin" est un Action-Plateformer à la troisième personne en multijoueur qui a un gameplay dynamique et qui est axé sur la physique du jeu, le but du jeu diffère selon les niveaux.
+# CrazyGuys Project
+Le projet "CrazyGuys" est un Action-Plateformer à la troisième personne en multijoueur qui a un gameplay dynamique et qui est axé sur la physique du jeu, le but du jeu diffère selon les niveaux.
 
 ![Playa_Screen_2](https://user-images.githubusercontent.com/51683201/137364669-9606d39c-4c6b-40a2-a09b-08f433e81600.PNG)
 
 La totalité des éléments du jeu ont été créés par moi même que ce soit les Model 3D, UI, les animations, Shaders, Textures, Scripts, Particles Effects, Son, Musique, etc…
 
-"Mkawdin" M'a surtout servi comme support au développement d’une API spécialisée sur la gestion de la partie multijoueur (le Net Code) codé en C# et que j’ai nommé "BambooNetCode", comme le montrent certains extraits vidéo du jeu, la partie multijoueur a été créée (from scratch) pour remédier à certains besoins et à la résolution de problèmes bien spécifiques.
+"CrazyGuys" M'a surtout servi comme support au développement d’une API spécialisée sur la gestion de la partie multijoueur (le Net Code) codé en C# et que j’ai nommé "BambooNetCode", comme le montrent certains extraits vidéo du jeu, la partie multijoueur a été créée (from scratch) pour remédier à certains besoins et à la résolution de problèmes bien spécifiques.
 
 Temp de développement : 4 mois
 
