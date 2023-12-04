@@ -61,9 +61,3 @@ Une fois que le salon de jeu est complet, ce module intervient et génère une i
 L’un des modules le plus complexe à coder car il a la responsabilité de lisser, de prédire et fluidifier les mouvements et rotations des différentes entités de l’instance.
 
 https://user-images.githubusercontent.com/51683201/137363311-bfc656c2-b1e8-495c-9675-ca25c3c5f687.mp4
-
-Voici certains extraits de scriptes : 
-
-* [GroupeManager.cs](https://github.com/Extons/GameServer_Network_API/blob/018845ca7c383d7eefb6f4611e7b40741635eb0e/ScriptsExample/CharacterMovementScript.cs "GroupeManager.cs")
-* [PacketsForger.cs](https://github.com/Extons/GameServer_Network_API/blob/018845ca7c383d7eefb6f4611e7b40741635eb0e/ScriptsExample/PacketsForger.cs "PacketsForger.cs")
-* [CharacterController.cs](https://github.com/Extons/GameServer_Network_API/blob/018845ca7c383d7eefb6f4611e7b40741635eb0e/ScriptsExample/CharacterController.cs "CharacterController.cs")
